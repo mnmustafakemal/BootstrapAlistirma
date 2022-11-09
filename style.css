@@ -1,0 +1,38 @@
+.bg-color{
+    background-color: #557153;
+}
+body{
+    background-color: #E9ECEF;
+}
+.white{
+    color:#E9ECEF
+}
+.h1clr{
+    color: #393E46;
+}
+.card-width{
+    width: 400px;
+    height: 500px;
+}
+.card-clr{
+    background-color: #E6E5A3;
+    border-color: #E6E5A3;
+    color: #393E46;
+}
+p{
+    color: #393E46;
+}
+h5{
+    color: #7D8F69;
+}
+.dropdown-item:active{
+    background-color: #557153;
+}
+.card:hover{
+
+    box-shadow: 5px 6px 21px 3px #c5ccc5;
+    transform: scale(1.1);
+}
+.card{
+    transition: all 0.2s ease;
+}
